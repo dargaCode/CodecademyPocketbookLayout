@@ -3,7 +3,14 @@ html, body {
   margin: 0;
   padding: 0;
   color: white;
-  background-color: dimgray;
+}
+
+body {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/pocketbook/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: cover;
 }
 
 .container {
