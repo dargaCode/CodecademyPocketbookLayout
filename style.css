@@ -2,6 +2,8 @@ html, body {
   font-family: Montserrat;
   margin: 0;
   padding: 0;
+  color: white;
+  background-color: dimgray;
 }
 
 .container {
@@ -13,7 +15,15 @@ html, body {
 /*HEADER*/
 
 
+.header .container{
+  border-bottom: 2px solid;
+}
 
+.header img {
+  width: 50px;
+  display: block;
+  margin: 30px auto;
+}
 
 
 /*MAIN*/
