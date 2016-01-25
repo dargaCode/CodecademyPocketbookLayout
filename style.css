@@ -112,7 +112,6 @@ h1 {
 
 .footer ul li {
   display: inline;
-  margin-left: -2px;
 }
 
 .footer ul li a {
@@ -124,6 +123,7 @@ h1 {
   font-size: 14px;
   margin-right: 16px;
   padding: 2px;
+  box-sizing: border-box;
 }
 
 .footer ul li a:hover,
