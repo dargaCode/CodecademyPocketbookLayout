@@ -19,6 +19,10 @@ body {
   padding: 0 15px;
 }
 
+h1 {
+  font-size: 30px;
+}
+
 
 /*HEADER*/
 
@@ -36,11 +40,27 @@ body {
 
 /*MAIN*/
 
+.main {
+  padding: 60px 0;
+}
 
+.main form label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
 
+.main form input {
+  margin-bottom: 20px;
+}
+
+.main form button {
+  display: block;
+}
 
 
 /*FOOTER*/
+
 
 .footer {
   height: 120px;
