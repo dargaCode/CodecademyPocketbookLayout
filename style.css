@@ -66,6 +66,17 @@ h1 {
 
 .main form button {
   display: block;
+  color: white;
+  background-color: #276253;
+  font-size: 14px;
+  font-weight: 600;
+  border: 0;
+  padding: 7px 12px;
+  margin: 25px 0;
+}
+
+.main form button:hover {
+  cursor: pointer;
 }
 
 
