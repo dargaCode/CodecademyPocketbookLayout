@@ -62,7 +62,7 @@ h1 {
 
 .main form input {
   width: 100%;
-  box-sizing: border-box
+  box-sizing: border-box;
   margin-bottom: 16px;
   font-size: 14px;
   padding: 7px 10px;
