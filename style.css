@@ -51,7 +51,13 @@ h1 {
 }
 
 .main form input {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  padding: 7px 10px;
+}
+
+.main form input:focus {
+  outline: none;
 }
 
 .main form button {
