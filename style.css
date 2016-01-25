@@ -46,6 +46,12 @@ h1 {
   padding: 58px 0;
 }
 
+.main form {
+  width: 500px;
+  margin: 0;
+  padding: 0;
+}
+
 .main form label {
   display: block;
   font-size: 14px;
@@ -55,7 +61,7 @@ h1 {
 }
 
 .main form input {
-  width: 500px;
+  width: 100%;
   margin-bottom: 16px;
   font-size: 14px;
   padding: 7px 10px;
