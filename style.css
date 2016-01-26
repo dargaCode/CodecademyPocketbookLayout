@@ -3,7 +3,15 @@ html, body {
   margin: 0;
   padding: 0;
   color: white;
+  box-sizing: border-box;
 }
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 
 body {
   background-image: url(https://s3.amazonaws.com/codecademy-content/projects/pocketbook/bg.jpg);
@@ -17,7 +25,6 @@ body {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 15px;
-  box-sizing: border-box;
 }
 
 h1 {
@@ -66,8 +73,6 @@ h1 {
   box-sizing: border-box;
   margin-bottom: 16px;
   font-size: 14px;
-  padding: 7px 10px;
-
 }
 
 .main form input:focus {
@@ -123,7 +128,6 @@ h1 {
   font-size: 14px;
   margin-right: 16px;
   padding: 2px;
-  box-sizing: border-box;
 }
 
 .footer ul li a:hover,
