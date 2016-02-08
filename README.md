@@ -1,7 +1,7 @@
 # Pocketbook Page Layout
 <strong>Language: HTML/CSS</strong>
 
-Another page based on an example layout from Codecademy.
+Another page based on an <a href="https://s3.amazonaws.com/codecademy-content/projects/pocketbook/index.html">example layout from Codecademy</a>.
 
 On this one I learned about Forms, the For attribute on Labels, Box-Sizing models, the Focus subclass, and some more Git stuff. 
 
